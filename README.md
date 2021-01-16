@@ -1,2 +1,2 @@
 # Pokimap
-This application is similar to Pokémon GO written in Meteor and React Native.
+This application is similar to Pokémon GO written using Meteor and React Native.
